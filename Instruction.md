@@ -21,3 +21,7 @@ Text in English
 * List two
 * List three
 
+## Картинки
+Это яблоко
+
+![яблоко](Apple.jpg)
