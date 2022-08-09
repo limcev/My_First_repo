@@ -22,5 +22,6 @@ Text in English
 * List three
 
 ## Картинки
-Это апельсин 
+Это яблоко
+
 ![яблоко](Apple.jpg)
